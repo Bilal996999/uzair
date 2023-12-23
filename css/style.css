@@ -187,7 +187,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url('../images/content/bg-hero.jfif');
+	background-image:url('../images/content/bg-uzair.jpg');
 	background-position: center left;
 	background-repeat:no-repeat;
 	background-size:contain;
@@ -196,18 +196,14 @@ input:focus, textarea:focus, select:focus, button:focus {
     padding: 200px 0px;
 }
 .prt_home_wrapper h1{
-	position:absolute;
-	top:50%;
-	font-size:150px;
-	color: #ffffff;
-	font-weight:bold;
-	background: url('../images/content/bg-hero.jfif') no-repeat;
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
-    background-size: cover;
-    background-position: -41px -85px;
-    -webkit-text-stroke: 3px darkgrey;
-    -webkit-text-fill-color: transparent;
+    position: absolute;
+    top: 40%;
+    right: 13%;
+    font-size: 150px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    word-spacing: 10px;
 }
 .prt_logo_wrapper img{
     position: fixed;
